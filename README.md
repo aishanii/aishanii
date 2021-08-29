@@ -1,4 +1,7 @@
 ### Hello! 👋
+### I'm a Computer Science undergrad student. I'm a data science enthusiast, and my willingness to learn is _limitless_. 
+
+<p align='center'> Connect with me on: </p>
 
 <p align='center'>
 <a href="https://www.instagram.com/_paraishani/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
