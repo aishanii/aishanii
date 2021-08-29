@@ -1,5 +1,11 @@
 ### Hello! 👋
 
+<p align='center'>
+<a href="https://www.instagram.com/_paraishani/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aishani-singh-a651191a6/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+
 
 <!--- 🔭 I’m currently working on Machine Learning projects
 - 🌱 I’m currently learning 
