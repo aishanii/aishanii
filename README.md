@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello! :sunflower:
 ### I'm a Computer Science undergrad student. I'm a data science enthusiast, and my willingness to learn is _limitless_. I'm fascinated by technologies that can bring positive changes. I'm also into writing blog posts- both technical and non-technical, reading, literature, dance, and exploring all things bright and beautiful.
 
 <p align='center'> Connect with me on: </p>
