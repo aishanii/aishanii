@@ -1,6 +1,7 @@
 ### Hello! :sunflower:
 
-![Design wallpaper](https://user-images.githubusercontent.com/84021861/136152694-22d7b702-b7fc-4451-8aa6-5db3023ca9c0.png)
+![Design wallpaper (1)](https://user-images.githubusercontent.com/84021861/136153065-57cec4e3-8380-42f8-a02d-93373c7db6d3.png)
+)
 
 
 ### I'm a Computer Science undergrad student. I'm a data science enthusiast, and my willingness to learn is _limitless_. I'm fascinated by technologies that can bring positive changes. I'm also into writing blog posts- both technical and non-technical, reading, literature, dance, and exploring all things bright and beautiful. 
