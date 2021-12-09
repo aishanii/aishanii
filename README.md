@@ -1,7 +1,9 @@
 ### Hello! :sunflower:
 
 
-![github](https://user-images.githubusercontent.com/84021861/145366615-69205283-97a1-4513-b30c-95765197a510.gif)
+
+![hello there](https://user-images.githubusercontent.com/84021861/145372967-ef025e14-b6e8-498a-bb06-881d82d81da5.gif)
+
 
 
 
