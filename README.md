@@ -8,7 +8,6 @@
 
 
 
-### I'm a Computer Science undergrad student. I'm a data science enthusiast, and my willingness to learn is _limitless_. I'm fascinated by technologies that can bring positive changes. I'm currently learning API development and surrounding technologies. I'm also into writing blog posts- both technical and non-technical, reading, literature andexploring all things bright and beautiful. 
 
 <p align='center'> Connect with me on: </p>
 
