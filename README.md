@@ -34,6 +34,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?stylestyle=flat&logo=C%2B%2B&logo=Canva&logoColor=white)
 
-![Aishani's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishanii&show_icons=true)
+![Aishani's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishanii&theme=radical&show_icons=true)
+
 
 
