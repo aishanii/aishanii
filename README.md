@@ -1,6 +1,7 @@
 ### Hello! :sunflower:
 
-![Design wallpaper (1)](https://user-images.githubusercontent.com/84021861/136153065-57cec4e3-8380-42f8-a02d-93373c7db6d3.png)
+
+![github](https://user-images.githubusercontent.com/84021861/145366615-69205283-97a1-4513-b30c-95765197a510.gif)
 
 
 
